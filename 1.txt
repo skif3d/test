@@ -1,1 +1,1 @@
-файл ветки master
+file of master branch
