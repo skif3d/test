@@ -1,1 +1,1 @@
-файл ветки master
+test file TEST_BRANCH
